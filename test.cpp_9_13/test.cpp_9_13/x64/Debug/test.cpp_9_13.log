@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\C语言\c++\test.cpp_9_13\test.cpp_9_13\test.cpp(76,9): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  test.cpp_9_13.vcxproj -> C:\C语言\c++\test.cpp_9_13\x64\Debug\test.cpp_9_13.exe
