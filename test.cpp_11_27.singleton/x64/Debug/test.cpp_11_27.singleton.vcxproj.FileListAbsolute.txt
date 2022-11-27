@@ -1,0 +1,2 @@
+C:\C语言\LeetCode\test.cpp_11_27.singleton\x64\Debug\test.cpp_11_27.singleton.exe
+C:\C语言\c++\test.cpp_11_27.singleton\x64\Debug\test.cpp_11_27.singleton.exe
