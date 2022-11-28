@@ -1,0 +1,1 @@
+C:\C语言\c++\test.cpp_11_28.allocation\x64\Debug\test.cpp_11_28.allocation.exe
